@@ -23,6 +23,8 @@ The COVID-19 tourism impact research project analyzes the effects of the pandemi
 
 ## Methodology
 
+![meth](https://github.com/user-attachments/assets/4d51fce8-0059-4fb1-89fa-c32a275a701e)
+
 | Component           | Implementation                          | Function                                              |
 |---------------------|------------------------------------------|-------------------------------------------------------|
 | Text Preprocessing  | Regular expressions in `cruise.ipynb`    | Cleans and standardizes raw text data                |
@@ -67,6 +69,7 @@ The COVID-19 tourism impact research project analyzes the effects of the pandemi
 | ipywidgets   | Interactive components for Jupyter notebooks to allow dynamic analysis                       |
 | tqdm         | Progress bars for monitoring long-running processes like data cleaning and model training   |
 
+[.](https://deepwiki.com/Jide-Muritala/covid19-research)
 
 
 
